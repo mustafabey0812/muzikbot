@@ -1,1 +1,1 @@
-# muzikbot
+# Harry muzikbotu telif hakkına sahiptir
